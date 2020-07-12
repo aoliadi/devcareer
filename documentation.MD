@@ -5,7 +5,8 @@
 ### This was in no way ordered by the management of _devcareer_ nor any of its affiliate.
 
 **All Rights Reserved.**
-Requests for permission for, or further information on usage of this document should be addressed to the author, via the following media:
+Requests for permission for, or further information on usage of this document should be addressed to the author, via the following media:  
+  
 **E-mail:** ao.liadiahmed@gmail.com  
 **Instagram:** [aoliadi](https://instagram.com/aoliadi)  
 
@@ -29,7 +30,7 @@ With the look of the site, I don't think there's need in creating a new sitemap.
 ### *Stay Updated* Section.
 It says:
 ```
-"HEY! DevCareer, seems like I'll love to get your newsteller to know when your next program will be holding."
+HEY! DevCareer, seems like I'll love to get your newsteller to know when your next program will be holding.
 ```
 Some points to be highlighted:
 - I feel *newsteller* meant *newsletter*. 
@@ -46,8 +47,7 @@ Submit Button: Keep Me Posted || Subscribe
 Addendum: No spam, it'll come twice a month. You won't need it, but you can unsubscribe at any time.
 
 ### *Why we exist* Section.
-
-Some points to be highlighted:
+Some points to be highlighted:  
 - *"We are not planning to do much"* looks like a downplay, than an understatement.
 - The why's look okay, but a VISION and MISSION might go a longer way.
 - *Create employment*, or *create employable developers*?
@@ -55,12 +55,12 @@ Some points to be highlighted:
 - The illustration image used in this section doesn't match what the section's goal.
 
 **Proffered change:**  
-Header: Vision
-Main: To create world class Software Developers
-      To use tech as a tool in solving problems
-      To breed and promote creative ideas
-      To build more astute tech youths
-      To support females into tech in Africa
+Header: Vision  
+Main: To create world class Software Developers  
+      To use tech as a tool in solving problems  
+      To breed and promote creative ideas  
+      To build more astute tech youths  
+      To support females into tech in Africa  
       
 
 ### *Header* Section.
