@@ -1,30 +1,33 @@
-#Welcome❤
+# Welcome❤
 
 **Copyright © Ahmed Olukorede Liadi, 2020.**
 
-###This was in no way ordered by the management of _devcareer_ nor any of its affiliate.
+### This was in no way ordered by the management of _devcareer_ nor any of its affiliate.
 
 **All Rights Reserved.**
 Requests for permission for, or further information on usage of this document should be addressed to the author, via the following media:
+```
 **E-mail:** ao.liadiahmed@gmail.com  
 **Instagram:** [aoliadi] (https://instagram.com/aoliadi)  
+```
 
-
-#INTRODUCTION
+# INTRODUCTION
 Developer Career is _"A non-profit tech organization to support the rising tech ecosystem in Africa."_, as seen in [devcareer.io] (https://devcareer.io). They offer junior and aspiring developers _"opportunity to be world class."_ As an aspiring/junior developer, if you have the *time*, *passion* and *zeal to learn*, Dev. Career seems to be the platform for you. (N.B: This is not a personal statement, this is backed by various testimonials of past interns). Check [here] (https://devcareer.io) for full insight.
 
 
-##GOAL IDENTIFICATION  The Dev. Career site was built to help users to know why, and if they should apply to be admitted. As of the time of writing, my expertise lies in HTML, CSS, JS and the basics of Git V.C.S. I aim to revamp the Dev. Career site to the best of my abilities.
+## GOAL IDENTIFICATION  
+The Dev. Career site was built to help users to know why, and if they should apply to be admitted. As of the time of writing, my expertise lies in HTML, CSS, JS and the basics of Git V.C.S. I aim to revamp the Dev. Career site to the best of my abilities.
 
 ##SCOPE DEFINITION  This section explains what need to be done, reasons include. I first visited [devcareer.io] (https://devcareer.io) with my mobile phone. It didn't look nice to me. Aesthetically, there can be improvement: choice of illustrations, unclickable texts looking like buttons and so on.
 Also, there are typographical and lexical errors which should be corrected and improved. Some examples include: *newsteller* instead of "newsletter", *apply?* instead of "apply". During the process of revision and improvement, I'll endeavour to give reasons for change of words for UX writing.
 
-##SITEMAP AND WIREFRAME CREATION  With the look of the site, I don't think there's need in creating a new sitemap. If it's needed, I won't hesitate to prepare one. Wireframe for the new look will be done in no time, and documentation updated. I'm trying to focus on copy writing for now, since my laptop isn't available.
+## SITEMAP AND WIREFRAME CREATION  
+With the look of the site, I don't think there's need in creating a new sitemap. If it's needed, I won't hesitate to prepare one. Wireframe for the new look will be done in no time, and documentation updated. I'm trying to focus on copy writing for now, since my laptop isn't available.
 
-##CONTENT CREATION  
+## CONTENT CREATION  
 **N.B: Word choices are S.E.O-influenced.**
 
-###*Stay Updated* Section.
+### *Stay Updated* Section.
 *"HEY! DevCareer, seems like I'll love to get your newsteller to know when your next program will be holding"*, it says.
 Some points to be highlighted:
 - I feel *newsteller* meant *newsletter*. 
@@ -40,7 +43,7 @@ Placeholder: Enter email address
 Submit Button: Keep Me Posted || Subscribe
 Addendum: No spam, it'll come twice a month. You won't need it, but you can unsubscribe at any time.
 
-###*Why we exist* Section.
+### *Why we exist* Section.
 
 Some points to be highlighted:
 - *"We are not planning to do much"* looks like a downplay, than an understatement.
@@ -58,7 +61,7 @@ Main: To create world class Software Developers
       To support females into tech in Africa
       
 
-###*Header* Section.
+### *Header* Section.
 *Developer Career. A non-profit Tech organization to support the rising Tech Ecosystem in Africa. A new day, another opportunity to be world class 🔥🚀. Create mini CV*
 
 Some points to be highlighted:
@@ -72,7 +75,7 @@ Paragraph: same
 paragraph: 
 button text: sign up
 
-###*Nav. Bar* Section.
+### *Nav. Bar* Section.
 It contains the logo and menu button, which works like an hamburger.
 
 **Proffered change:**  
@@ -80,7 +83,7 @@ Reduced logo size and maybe a little tweaking (I never said I make logos too, ri
 Change menu to hamburger on mobile
 Arrange header contents to be hero-like.
 
-###*Onboarding* Section.
+### *Onboarding* Section.
 This section contains three cards enclosing: an image, a paragraph text and a link.
 
 Card1: Have The Passion?
@@ -110,7 +113,7 @@ It doesn't have to be full-time, but if you're happy to mentor interns? Send a r
 Don't forget to subscribe to our newsletter.
 
 
-###*All about us in one DIV* Section.
+### *All about us in one DIV* Section.
 This section contains some DevCareer info.
 
 A not for Profit tech organization to support more Africans into the tech World
