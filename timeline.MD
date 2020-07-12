@@ -17,4 +17,4 @@ I should have started this 4weeks ago, but boom!, _transformer spoil_. I'm a wri
 + 1st July, 2020: I heard **SPCK editor** enables pushing to github, so I installed it. I hope I'm committed from here on. Not much done today, I created the files, updated the documentation and plan for tomorrow and the future.
 + 2nd July, 2020: I thought about this project, and felt I should read up on BEM naming technique. I know about it, but haven't studied it. Besides, I don't think I can work on this alone. Even if I can, I don't want to; after the landing page, I'll likely ask for more hands. So, looks like studying it will be of good help.
 + 3rd July, 2020: I continued populating the documentation, and came up with some UX Copywriting. As I see this, it looks like it's gonna be a long walk. (-_-) I haven't started BEM, I read more on CSS Grid today.
-+ 
++ 4th July, 2020: I proposed changes to the *stay updated* section.
