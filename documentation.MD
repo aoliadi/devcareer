@@ -25,7 +25,6 @@ Also, there are typographical and lexical errors which should be corrected and i
 With the look of the site, I don't think there's need in creating a new sitemap. If it's needed, I won't hesitate to prepare one. Wireframe for the new look will be done in no time, and documentation updated. I'm trying to focus on copy writing for now, since my laptop isn't available.
 
 ## CONTENT CREATION  
-**N.B: Word choices are S.E.O-influenced.**
 
 ### *Stay Updated* Section.
 It says:
@@ -114,7 +113,6 @@ If you pass these criteria, you're welcome to request for admission.
 You didn't pass, but you need a one-time advice or question? Click here. Before clicking, check our FAQs.
 It doesn't have to be full-time, but if you're happy to mentor interns? Send a request here.
 Don't forget to subscribe to our newsletter.
-
 
 ### *All about us in one DIV* Section.
 This section contains some DevCareer info.
