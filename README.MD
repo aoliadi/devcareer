@@ -13,4 +13,5 @@ Requests for permission for, or further information on usage of this document sh
 
 # Introduction
 Check [here](documentation.MD) for the progress acheived.
- 
+
+![wireframe](wireframe/wire.jpg)
