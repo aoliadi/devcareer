@@ -40,7 +40,7 @@ Some points to be highlighted:
 
 **Proffered change:**  
 Header: Stay Ahead
-Main: Subscribe to our newsletter to get updates about DevCareer and tech in Africa. Want to have a chat with people that have made it in with tech in Africa? Join our waiting list.
+Main: Subscribe to our newsletter to get updates about DevCareer and tech in Africa. Want to have a chat with people that have made it in with tech in Africa? Join our waiting list. || Join the developers newsletter waiting list
 Placeholder: Enter email address
 Submit Button: Keep Me Posted || Subscribe
 Addendum: No spam, it'll come twice a month. You won't need it, but you can unsubscribe at any time.
@@ -48,7 +48,7 @@ Addendum: No spam, it'll come twice a month. You won't need it, but you can unsu
 ### *Why we exist* Section.
 Some points to be highlighted:  
 - *"We are not planning to do much"* looks like a downplay, than an understatement.
-- The why's look okay, but a VISION and MISSION might go a longer way.
+- The whys look okay, but a VISION and MISSION might go a longer way.
 - *Create employment*, or *create employable developers*?
 - I don't see the relevance of *"Africa TechEcosystem++"* in this section.
 - The illustration image used in this section doesn't match what the section's goal.
@@ -66,36 +66,35 @@ Main: To create world class Software Developers
 ```
 Developer Career. A non-profit Tech organization to support the rising Tech Ecosystem in Africa. A new day, another opportunity to be world class 🔥🚀. Create mini CV
 ```
-Some points to be highlighted:
+Some points to be highlighted:  
 - What does *dev* mean in *DevCareer*? *developer or developers?*. Page header shows *developer career*, while page title shows *developers career*.
 - Is *"A new day, another opportunity to be world class"* DevCareer's slogan? If not, a better tech quote might be needed.
 - I tried clicking the mini-CV button, but I was directed to a sign up page. If that's what is intended, the button text is misleading.
 
 **Proffered change:**  
-Header: same
-Paragraph: same
-paragraph: 
-button text: sign up
-
-### *Nav. Bar* Section.
-It contains the logo and menu button, which works like an hamburger.
-
-**Proffered change:**  
-Reduced logo size and maybe a little tweaking (I never said I make logos too, right?)
-Change menu to hamburger on mobile
+Header: same  
+Paragraph: same  
+button text: sign up  
 Arrange header contents to be hero-like.
 
+### *Nav. Bar* Section.
+It contains the logo and menu button, which works like an hamburger.  
+
+**Proffered change:**  
+Reduced logo size and maybe a little tweaking (I never said I make logos too, right?).  
+Change menu to hamburger on mobile.  
+
 ### *Onboarding* Section.
-This section contains three cards enclosing: an image, a paragraph text and a link.
+This section contains three cards enclosing: an image, a paragraph text and a link.  
 
 Card1: Have The Passion?
-Are you trying to get a foothold in tech? Are you having problems selecting an area of programming you wish to major in? Or you need tools to aid your learning? Would you
+Are you trying to get a foothold in tech? Are you having problems selecting an area of programming you wish to major in? Or you need tools to aid your learning? Would you  
 
 Card2: Have The Time?
-Our program is full time and lasts 3 months, you're welcome to apply if you currently do not have a full time dedication to something else. love to
+Our program is full time and lasts 3 months, you're welcome to apply if you currently do not have a full time dedication to something else. love to  
 
 Card3: join Us
-We are a non-profit tech organization that's dedicated to supporting the rising tech ecosystem in Africa. If you have the zeal to learn, try applying NOW!!! Apply?
+We are a non-profit tech organization that's dedicated to supporting the rising tech ecosystem in Africa. If you have the zeal to learn, try applying NOW!!! Apply?  
 
 **Proffered change:** 
 Header: Checklist
@@ -110,7 +109,7 @@ Card3: Do you have the time?
 This program is full-time and lasts for 3 months. Do you have the time?
 
 If you pass these criteria, you're welcome to request for admission.
-You didn't pass, but you need a one-time advice or question? Click here. Before clicking, check our FAQs.
+You didn't pass, but you need a one-time advice or question? Click here. But before clicking, check our FAQs.
 It doesn't have to be full-time, but if you're happy to mentor interns? Send a request here.
 Don't forget to subscribe to our newsletter.
 
