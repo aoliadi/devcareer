@@ -39,11 +39,11 @@ Some points to be highlighted:
 - The submit button also shows *"I'm in"*. I don't need to be *in* for a reminder or newsletter, *subscribe* would be a better fit.
 
 **Proffered change:**  
-Header: Stay Ahead
-Main: Subscribe to our newsletter to get updates about DevCareer and tech in Africa. Want to have a chat with people that have made it in with tech in Africa? Join our waiting list. || Join the developers newsletter waiting list
-Placeholder: Enter email address
-Submit Button: Keep Me Posted || Subscribe
-Addendum: No spam, it'll come twice a month. You won't need it, but you can unsubscribe at any time.
+Header: Join the newsletter waiting list  
+Main: Stay in the loop with updates about DevCareer and tech in Africa.  
+Placeholder: Enter email address  
+Submit Button: Subscribe  
+Addendum: No spam, it'll come twice a month.  
 
 ### *Why we exist* Section.
 Some points to be highlighted:  
