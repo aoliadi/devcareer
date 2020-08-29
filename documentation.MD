@@ -86,7 +86,7 @@ Change menu to hamburger on mobile.
 
 ### *Onboarding* Section.
 This section contains three cards enclosing: an image, a paragraph text and a link.  
-
+```
 Card1: Have The Passion?
 Are you trying to get a foothold in tech? Are you having problems selecting an area of programming you wish to major in? Or you need tools to aid your learning? Would you  
 
@@ -95,7 +95,7 @@ Our program is full time and lasts 3 months, you're welcome to apply if you curr
 
 Card3: join Us
 We are a non-profit tech organization that's dedicated to supporting the rising tech ecosystem in Africa. If you have the zeal to learn, try applying NOW!!! Apply?  
-
+```
 **Proffered change:** 
 Header: Checklist
 
@@ -115,7 +115,7 @@ Don't forget to subscribe to our newsletter.
 
 ### *All about us in one DIV* Section.
 This section contains some DevCareer info.
-
+```
 A not for Profit tech organization to support more Africans into the tech World
 We've not done alot, hopefully we will get to increase these numbers soon.
 22
@@ -130,14 +130,41 @@ Donations
 Patrons
 22+
 Available mentors
-
+```
 **Proffered change:**  
 - *...more Africans into the tech World* paragraph to be removed.
-- Main sponsors/partners image
+- Main sponsors/partners image be used.
 - 'Partners' for 'partnership'
-- Award winning is ambiguous. Better if clariified or removed
+- Award winning is ambiguous. Better if clarified or removed
 - Final arrangement: 
         Developers Trained
         Mentors
         Partners
-        Patrons
+        Patrons  
+        
+### *Our Method* Section.
+This section educates users on how the program is run.
+```
+Your journey of a thousand miles, starts with a one tweet pitch
+
+Join Program
+Pass our four-level stage assessment and join DevCareer. Assessment will be based on several criteria: aptitude test, coding test and a physical interview.
+
+Resources && Mentors
+Get a laptop, get a course, get paired with a mentor in your field to support and progress your skill.
+
+Get Job placement
+During and after your mentorship program, we will work together with your mentor to source for suitable jobs for you and prepare for interviews
+```
+**Proffered change:**  
+- *Your journey of a thousand miles, starts with a one tweet pitch* be removed.
+- Take a test; Get resources; Get a mentor; Get a job
+- Attempt an aptitude test, a coding test and a physical interview. Pass the tests and join DevCareer
+- Get attached to a mentor
+- Get a laptop, a course and weekly tasks
+- With the help of your mentor and the program, we prepare you for interviews and jobs.
+
+        
+
+
+
