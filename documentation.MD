@@ -97,19 +97,19 @@ Card3: join Us
 We are a non-profit tech organization that's dedicated to supporting the rising tech ecosystem in Africa. If you have the zeal to learn, try applying NOW!!! Apply?  
 ```
 **Proffered change:** 
-Header: Checklist
+Header: Admission Checklist 
 
 Card1: Do you need a mentor?
-Are you a noob? Are you confused as to your next move? Do you need a mentor? Check below.
+Are you a noob? Are you confused as to your next move? Do you need a mentor?
 
-Card2: Do you need more project in your portfolio?
-You aren't a newbie, but you need more to work on and improve your skills? You are almost there. Check below.
+Card2: Do you need improve your skills?
+Do you need more projects to work on to improve your skills?
 
 Card3: Do you have the time?
 This program is full-time and lasts for 3 months. Do you have the time?
 
 If you pass these criteria, you're welcome to request for admission.
-You didn't pass, but you need a one-time advice or question? Click here. But before clicking, check our FAQs.
+You didn't pass, but you need an advice or question? Click here. Before clicking, check our FAQs.
 It doesn't have to be full-time, but if you're happy to mentor interns? Send a request here.
 Don't forget to subscribe to our newsletter.
 
@@ -162,9 +162,27 @@ During and after your mentorship program, we will work together with your mentor
 - Attempt an aptitude test, a coding test and a physical interview. Pass the tests and join DevCareer
 - Get attached to a mentor
 - Get a laptop, a course and weekly tasks
-- With the help of your mentor and the program, we prepare you for interviews and jobs.
+- With the help of your mentor and the program, we prepare you for interviews and jobs.  
 
-        
+### Additional Section.  
+Aside the already existing sections, I feel testimonials from interns of previous cohorts be added. Testimonials from people who love what Dev. Career is doing be added also. This section will be titled **What developers are saying**. I hope to have testimonials added in the form of a screenshotted Twitter post. Twitter, because its the most popular social media platform and readily accessible to almost everyone ready to drop a review. If any other section is to be added, this doc. will be updated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## CONTENT CREATION  
+
+
 
 
 
