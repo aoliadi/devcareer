@@ -21,9 +21,6 @@ The Dev. Career site was built to help users to know why, and if they should app
 This section explains what need to be done, reasons include. I first visited [devcareer.io](https://devcareer.io) with my mobile phone. It didn't look nice to me. Aesthetically, there can be improvement: choice of illustrations, unclickable texts looking like buttons and so on.
 Also, there are typographical and lexical errors which should be corrected and improved. Some examples include: *newsteller* instead of "newsletter", *apply?* instead of "apply". During the process of revision and improvement, I'll endeavour to give reasons for change of words for UX writing.
 
-## SITEMAP AND WIREFRAME CREATION  
-With the look of the site, I don't think there's need in creating a new sitemap. If it's needed, I won't hesitate to prepare one. Wireframe for the new look will be done in no time, and documentation updated. I'm trying to focus on copy writing for now, since my laptop isn't available.
-
 ## CONTENT CREATION  
 
 ### *Stay Updated* Section.
@@ -160,29 +157,14 @@ During and after your mentorship program, we will work together with your mentor
 - *Your journey of a thousand miles, starts with a one tweet pitch* be removed.
 - Take a test; Get resources; Get a mentor; Get a job
 - Attempt an aptitude test, a coding test and a physical interview. Pass the tests and join DevCareer
-- Get attached to a mentor
+- Get attached to a mentor who will monitor your progress.
 - Get a laptop, a course and weekly tasks
 - With the help of your mentor and the program, we prepare you for interviews and jobs.  
 
 ### Additional Section.  
-Aside the already existing sections, I feel testimonials from interns of previous cohorts be added. Testimonials from people who love what Dev. Career is doing be added also. This section will be titled **What developers are saying**. I hope to have testimonials added in the form of a screenshotted Twitter post. Twitter, because its the most popular social media platform and readily accessible to almost everyone ready to drop a review. If any other section is to be added, this doc. will be updated.
+Aside the already existing sections, I feel testimonials from interns of previous cohorts be added. Testimonials from people who love what Dev. Career is doing be added also. This section will be titled **What developers are saying**. I hope to have testimonials added in the form of a screenshotted Twitter post. Twitter, because its the most popular social media platform and readily accessible to almost everyone ready to drop a review. If any other section is to be added, this doc. will be updated.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## CONTENT CREATION  
-
-
-
+## SITEMAP AND WIREFRAME CREATION  
+With the look of the site, I don't think there's need in creating a new sitemap. If it's needed, I won't hesitate to prepare one. Wireframe for the new look will be done in no time, and documentation updated. I'm trying to focus on copy writing for now, since my laptop isn't available.
 
 
