@@ -156,7 +156,7 @@ During and after your mentorship program, we will work together with your mentor
 **Proffered change:**  
 - *Your journey of a thousand miles, starts with a one tweet pitch* be removed.
 - Take a test; Get resources; Get a mentor; Get a job
-- Attempt an aptitude test, a coding test and a physical interview. Pass the tests and join DevCareer
+- Attempt an aptitude test, a coding test and a physical interview. Pass the tests and join Developer Career.
 - Get attached to a mentor who will monitor your progress.
 - Get a laptop, a course and weekly tasks
 - With the help of your mentor and the program, we prepare you for interviews and jobs.  

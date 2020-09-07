@@ -12,6 +12,6 @@ Requests for permission for, or further information on usage of this document sh
 **Twitter:** [aoliadi](https://twitter.com/aoliadi)  
 
 # Introduction
-Check [here](documentation.MD) for the progress acheived.
+Check [here](00_writings/documentation.MD) for the progress acheived. Do well to check [timeline](00_writings/timeline.MD) to know about the journey through this project.
 
-![wireframe](wireframe/wire.jpg)
+<!--![wireframe](wireframe/wire.jpg)-->
